@@ -1,0 +1,31 @@
+# Logfile created on 2014-01-04 09:24:26 +0300 by logger.rb/31641
+[01/04/14 09:24:26 +0300 surpass-VGN-NW125J (4544)] INFO : Dispatcher: webrick
+[01/04/14 09:24:26 +0300 surpass-VGN-NW125J (4544)] INFO : Application: development
+[01/04/14 09:24:26 +0300 surpass-VGN-NW125J (4544)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[01/04/14 09:24:26 +0300 surpass-VGN-NW125J (4544)] INFO : New Relic Ruby Agent 3.3.4 Initialized: pid = 4544
+[01/04/14 09:24:26 +0300 surpass-VGN-NW125J (4544)] INFO : Agent Log at /home/surpass/social networks/jesus/log/newrelic_agent.log
+[01/04/14 10:30:21 +0300 surpass-VGN-NW125J (3175)] INFO : Dispatcher: webrick
+[01/04/14 10:30:21 +0300 surpass-VGN-NW125J (3175)] INFO : Application: development
+[01/04/14 10:30:21 +0300 surpass-VGN-NW125J (3175)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[01/04/14 10:30:21 +0300 surpass-VGN-NW125J (3175)] INFO : New Relic Ruby Agent 3.3.4 Initialized: pid = 3175
+[01/04/14 10:30:21 +0300 surpass-VGN-NW125J (3175)] INFO : Agent Log at /home/surpass/social networks/jesus/log/newrelic_agent.log
+[01/28/14 17:02:11 +0300 surpass-VGN-NW125J (3710)] INFO : Dispatcher: webrick
+[01/28/14 17:02:11 +0300 surpass-VGN-NW125J (3710)] INFO : Application: development
+[01/28/14 17:02:11 +0300 surpass-VGN-NW125J (3710)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[01/28/14 17:02:11 +0300 surpass-VGN-NW125J (3710)] INFO : New Relic Ruby Agent 3.3.4 Initialized: pid = 3710
+[01/28/14 17:02:11 +0300 surpass-VGN-NW125J (3710)] INFO : Agent Log at /home/surpass/social networks/jesus/log/newrelic_agent.log
+[06/14/14 04:14:42 +0300 surpass-VGN-NW125J (2804)] INFO : Dispatcher: webrick
+[06/14/14 04:14:42 +0300 surpass-VGN-NW125J (2804)] INFO : Application: development
+[06/14/14 04:14:42 +0300 surpass-VGN-NW125J (2804)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[06/14/14 04:14:42 +0300 surpass-VGN-NW125J (2804)] INFO : New Relic Ruby Agent 3.3.4 Initialized: pid = 2804
+[06/14/14 04:14:42 +0300 surpass-VGN-NW125J (2804)] INFO : Agent Log at /home/surpass/Desktop/jesus/log/newrelic_agent.log
+[06/14/14 10:08:15 +0300 surpass-VGN-NW125J (3361)] INFO : Dispatcher: webrick
+[06/14/14 10:08:15 +0300 surpass-VGN-NW125J (3361)] INFO : Application: development
+[06/14/14 10:08:15 +0300 surpass-VGN-NW125J (3361)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[06/14/14 10:08:15 +0300 surpass-VGN-NW125J (3361)] INFO : New Relic Ruby Agent 3.3.4 Initialized: pid = 3361
+[06/14/14 10:08:15 +0300 surpass-VGN-NW125J (3361)] INFO : Agent Log at /home/surpass/Desktop/jesus/log/newrelic_agent.log
+[06/14/14 10:16:37 +0300 surpass-VGN-NW125J (3872)] INFO : Dispatcher: webrick
+[06/14/14 10:16:37 +0300 surpass-VGN-NW125J (3872)] INFO : Application: development
+[06/14/14 10:16:37 +0300 surpass-VGN-NW125J (3872)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[06/14/14 10:16:37 +0300 surpass-VGN-NW125J (3872)] INFO : New Relic Ruby Agent 3.3.4 Initialized: pid = 3872
+[06/14/14 10:16:37 +0300 surpass-VGN-NW125J (3872)] INFO : Agent Log at /home/surpass/Desktop/peak_me/log/newrelic_agent.log
